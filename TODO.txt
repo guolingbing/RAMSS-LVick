@@ -1,0 +1,32 @@
+%% Titus TODO %%
+
+% [*] 1) Fool proofreading editing and rewording pass
+% [*] 2) Adding footnote urls for any first time mentions of any technologies in the document
+% [*] 3) Key features bullets for every item in the tools section
+% [ ] 4) Find any related  published works that can be cited {books, journal articles, whitepapers etc} and add reference blocks to the references.bib file
+% [*] 5) Punch babies
+% [ ] 6) Find appropriate places in the document to \cite{tag} all references you defined in references.bib
+% [ ] 7) Enjoy having earned yourself a co-author position in this paper :-)
+
+%% Brooks TODO %%
+
+% [ ] 1) Carefully read and organize document according to academic experience
+% [ ] 2) Fix anything you see fit
+% [ ] 3) Find and include all the references you know will make us look awesome
+% [ ] 4) Submit AAAI Copyright application
+% [ ] 5) Other stuff
+% [ ] 6) Hunt all of us down for a final pass on the document
+% [ ] 7) Ensure document is submitted on time no matter what. Ignore Lance and Titus if we are out of time.
+% [ ] 8) ????!?!
+% [ ] 9) More other things
+% [ ] 10) PROFIT!!!!
+
+%% Lance TODO %%
+
+% [*] 1) Fix flowcharts. Missing connections on figure 3-4
+% [ ] 2) Author information for all tools in tools section
+% [*] 3) Finish documenting SockJS with complete description section
+% [*] 4) Detail SockJS integration in the Solution section as well as HaProxy usage
+% [ ] 5) Make a pass to expand and elaborite on any parts of the document as possible
+% [*] 6) Write cubic crapton of stuffs
+% [ ] 7) Write more stuff
